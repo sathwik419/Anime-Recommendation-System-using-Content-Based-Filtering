@@ -1,0 +1,20 @@
+Anime Recommendation System:
+
+Introduction:
+
+This repository contains the code for an anime recommendation system built using content-based filtering. The system suggests anime titles based on user preferences by analyzing similar anime based on features like genre, rating, and number of episodes.
+
+Features:
+
+Data preprocessing for handling missing values and feature normalization.
+Genre tokenization for better feature representation.
+Cosine similarity calculation to find similar anime.
+User-friendly interface for anime recommendations.
+
+Requirements:
+
+Python
+Pandas
+NumPy
+Scikit-learn
+NLTK (for text preprocessing)
